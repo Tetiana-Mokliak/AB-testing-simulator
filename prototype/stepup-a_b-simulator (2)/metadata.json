@@ -1,0 +1,6 @@
+{
+  "name": "StepUp A/B Simulator",
+  "description": "Інтерактивний тренажер-симулятор A/B тестування для продуктового аналітика додатка StepUp",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
